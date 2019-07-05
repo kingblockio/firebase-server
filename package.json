@@ -59,7 +59,7 @@
     "cli": "^1.0.1",
     "daemon": "^1.1.0",
     "debug": "^3.1.0",
-    "firebase": "git+https://github.com/kingblockio/firebase-js-sdk.git#ontology1",
+    "firebase": "git+https://github.com/kingblockio/firebase-js-sdk.git#ontology2",
     "jwt-simple": "0.5.6",
     "lodash": "^4.17.5",
     "targaryen": "3.0.1",
